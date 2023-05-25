@@ -13,11 +13,11 @@ public class Clase2 {
         return "Mensaje de prueba de la Clase 2";
     }
     
-    public static String mensaje2() {
+    public static String mensajeDos() {
         return "Hola Guillermo";
     }
     
-    public static String mensaje3() {
+    public static String mensajeTres() {
         return "No se me ocurre nada que poner";
     }
 }
