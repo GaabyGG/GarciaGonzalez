@@ -12,4 +12,12 @@ public class Clase1 {
     public static int suma() {
         return 5 + 4;
     }
+    
+    public static int resta() {
+        return 5 - 4;
+    }
+    
+    public static int multiplicacion() {
+        return 5 * 4;
+    }
 }

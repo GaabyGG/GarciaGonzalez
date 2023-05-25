@@ -12,4 +12,12 @@ public class Clase2 {
     public static String mensaje() {
         return "Mensaje de prueba de la Clase 2";
     }
+    
+    public static String mensaje2() {
+        return "Hola Guillermo";
+    }
+    
+    public static String mensaje3() {
+        return "No se me ocurre nada que poner";
+    }
 }
