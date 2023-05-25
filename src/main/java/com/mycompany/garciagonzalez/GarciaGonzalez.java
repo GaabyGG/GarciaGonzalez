@@ -15,4 +15,6 @@ public class GarciaGonzalez {
         System.out.println(Clase1.suma());
         System.out.println(Clase2.mensaje());
     }
+    
+    // Gabriel García González
 }
