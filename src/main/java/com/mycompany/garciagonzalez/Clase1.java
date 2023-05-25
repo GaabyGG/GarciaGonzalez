@@ -13,11 +13,11 @@ public class Clase1 {
         return 5 + 4;
     }
     
-    public static int resta() {
-        return 5 - 4;
+    public static int operacion() {
+        return 5 - 4 + 2;
     }
     
-    public static int multiplicacion() {
-        return 5 * 4;
+    public static int suma2() {
+        return 5 + 7;
     }
 }
