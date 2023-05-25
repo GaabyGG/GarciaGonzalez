@@ -19,5 +19,11 @@ public class Clase2 {
     
     public static String mensajeNuevo2() {
         return "Prueba";
+    public static String mensajeDos() {
+        return "Hola Guillermo";
+    }
+    
+    public static String mensajeTres() {
+        return "No se me ocurre nada que poner";
     }
 }

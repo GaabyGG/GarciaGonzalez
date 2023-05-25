@@ -20,4 +20,12 @@ public class Clase1 {
     public static int suma2() {
         return 5 + 7;
     }
+    
+    public static int potencia() {
+        return 5 ^ 4;
+    }
+    
+    public static double division() {
+        return 5 / 4;
+    }
 }
