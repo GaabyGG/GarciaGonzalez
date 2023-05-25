@@ -12,6 +12,7 @@ package com.mycompany.garciagonzalez;
 public class GarciaGonzalez {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println(Clase1.suma());
+        System.out.println(Clase2.mensaje());
     }
 }

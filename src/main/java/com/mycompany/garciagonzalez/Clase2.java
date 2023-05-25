@@ -9,5 +9,7 @@ package com.mycompany.garciagonzalez;
  * @author Gaby
  */
 public class Clase2 {
-    
+    public static String mensaje() {
+        return "Mensaje de prueba de la Clase 2";
+    }
 }
